@@ -15,7 +15,7 @@
 
 const char* ssid = "ssid";
 const char* password = "password";
-const char* serverName = "http://192.168.18.4:5000/rfid";
+const char* serverName = "http://192.xxx.xx.x:5000/rfid";
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);
 Servo gateServo;
