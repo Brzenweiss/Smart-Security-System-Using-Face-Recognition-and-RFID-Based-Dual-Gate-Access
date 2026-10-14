@@ -13,8 +13,8 @@
 
 #define BUZZER_PIN 26
 
-const char* ssid = "Brzenweiss";
-const char* password = "mgl02806";
+const char* ssid = "ssid";
+const char* password = "password";
 const char* serverName = "http://192.168.18.4:5000/rfid";
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);
