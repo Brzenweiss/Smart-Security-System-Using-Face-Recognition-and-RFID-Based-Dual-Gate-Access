@@ -19,3 +19,4 @@ for this project you will need
 12. two Buzzer
 13. Two cameras connected via USB to your computer - webcam supported
 14. use your local network (ssid, and passowrd for ESP32)
+15. take a look at wiring folder as reference wiring
