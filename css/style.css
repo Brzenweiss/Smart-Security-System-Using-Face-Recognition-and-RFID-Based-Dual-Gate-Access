@@ -1,0 +1,23 @@
+/* font-family: 'Borel', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif; */
+
+.bg-img {
+  background-image: url("../img/bg1.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+  z-index: 800;
+}
+
+.navbar {
+  background-color: #3c8dbc;
+}
+
+.text-style {
+  font-family: "Merriweather", serif;
+}
+.text-style2 {
+  font-family: "Poppins", sans-serif;
+}
