@@ -3,7 +3,8 @@ Smart security system using face recognition, YOLOv5, RFID, and ESP32-based dual
 
 for this project you will need
 1. Yolov5 - https://github.com/ultralytics/yolov5
-2. use best.pt as model for yolo
+   use best.pt as model for yolo
+2. Insightface framework installed (arcface)
 3. run the app from main.py
 4. import smartsecurity.sql
 5. upload ESP32 Code to your ESP
