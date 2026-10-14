@@ -6,7 +6,7 @@ require 'function.php';
 <div class="container text-center">
 
     <divs class="mt-4 mx-auto w-50">
-        <img src="img/sistem.PNG" alt="parkir">
+        <img src="img/sistem.PNG" alt="gate">
     </divs>
     <div class="mx-auto w-25">
         <button class="btn btn-success" id="startBtn">Start Program</button>
